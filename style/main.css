@@ -1,21 +1,24 @@
 /* background color */
 body {
     background-color: darksalmon;
-}
+    }
 /* Title of the page */
 h1 {
     color: aquamarine;
     background-color: aliceblue;
     font-size: 50px;
+    text-align: center;
 
 }
 /* subheadings for the page */
 h2{
     color: blue;
     background-color: chartreuse;
+    text-align: center;
 }
 /* navigation section */
 nav {
     color: aquamarine;
     background-color: dimgray;
+    text-align: center;
 }
