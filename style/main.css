@@ -3,15 +3,16 @@ body {
     background-color: #E9D8C8;
     color: black;
     font-size: 17px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 
     }
 /* Title of the page */
 h1 {
-    color: #802121;
+    color: #E0216B;
     border: solid;
     border-color: #DE1559;
     font-size: 50px;
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 /* subheadings for the page */
@@ -19,6 +20,7 @@ h2{
     color: #802121;
     font-size: 35px;
     text-align: center;
+    font-family:Arial, Helvetica, sans-serif
 }
 /* navigation section */
 nav {
