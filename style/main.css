@@ -3,8 +3,7 @@ body {
     background-color: #E9D8C8;
     color: black;
     font-size: 17px;
-    font-family: 
-    }
+}
 /* Title of the page */
 h1 {
     color: #E0216B;
@@ -13,7 +12,6 @@ h1 {
     font-size: 50px;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-
 }
 /* subheadings for the page */
 h2{
@@ -28,6 +26,7 @@ nav {
     text-align: center;
     border: solid;
 }
+/* Paragraphs for the page */
 p {
    text-align: center; 
 }
