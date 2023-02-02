@@ -1,4 +1,20 @@
+/* background color */
 body {
     background-color: darksalmon;
 }
-h1 {}
+/* Title of the page */
+h1 {
+    color: aquamarine;
+    background-color: aliceblue;
+
+}
+/* subheadings for the page */
+h2{
+    color: blue;
+    background-color: chartreuse;
+}
+/* navigation section */
+nav {
+    color: aquamarine;
+    background-color: dimgray;
+}
