@@ -1,6 +1,9 @@
 /* background color */
 body {
-    background-color: darksalmon;
+    background-color: #E9D8C8;
+    color: black;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
     }
 /* Title of the page */
 h1 {
@@ -18,8 +21,7 @@ h2{
 }
 /* navigation section */
 nav {
-    color: aquamarine;
-    background-color: dimgray;
+    color: #DE1559;
     text-align: center;
     border: solid;
 }
