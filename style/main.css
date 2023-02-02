@@ -7,16 +7,17 @@ body {
     }
 /* Title of the page */
 h1 {
-    color: aquamarine;
-    background-color: aliceblue;
+    color: #802121;
+    border: solid;
+    border-color: #DE1559;
     font-size: 50px;
     text-align: center;
 
 }
 /* subheadings for the page */
 h2{
-    color: blue;
-    background-color: chartreuse;
+    color: #802121;
+    font-size: 35px;
     text-align: center;
 }
 /* navigation section */
