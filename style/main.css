@@ -34,4 +34,10 @@ p {
 /* All images on the page */
 .images {
     text-align: center;
+    margin-bottom: 3%;
+    margin-top: 5%;
+}
+
+.images figcaption {
+    color: #242738;
 }
