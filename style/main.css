@@ -6,12 +6,13 @@ body {
 }
 /* Title of the page */
 h1 {
+    border-style: ridge;
+    border-color: #DA9B22;
+    border-width: 20px;
     color: #E0216B;
-    border-style: solid none;
-    border-color: #4a7da0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 50px;
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 /* subheadings for the page */
 h2{
@@ -24,6 +25,7 @@ h2{
 nav {
     border: solid;
     border-color: #4a7da0;
+    font-family: 'Raleway', sans-serif;
     padding: 1%;
     text-align: center;
 }
