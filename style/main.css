@@ -12,20 +12,23 @@ h1 {
     color: #E0216B;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 50px;
+    margin: 1% 35%;
     text-align: center;
 }
 /* subheadings for the page */
 h2{
-    color: #112492;
+    color: #E0216B;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 35px;
     text-align: center;
 }
 /* navigation section */
 nav {
-    border: solid;
+    border-style: dotted;
     border-color: #4a7da0;
+    border-width: 10px;
     font-family: 'Raleway', sans-serif;
+    margin: 1% 10%;
     padding: 1%;
     text-align: center;
 }
@@ -44,5 +47,5 @@ p {
 }
 
 .images figcaption {
-    color: #ae7eaf;
+    color: #2c1950;
 }
