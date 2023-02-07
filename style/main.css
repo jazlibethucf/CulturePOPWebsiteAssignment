@@ -1,6 +1,6 @@
 /* background color */
 body {
-    background-color: #E9D8C8;
+    background-color: #f5e1ce;
     color: black;
     font-size: 17px;
 }
@@ -29,13 +29,16 @@ nav {
 }
 /* Paragraphs for the page */
 p {
-   text-align: center; 
+   text-align: center;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+   margin-left: 20%;
+   margin-right: 20%;
 }
 /* All images on the page */
 .images {
     text-align: center;
     margin-bottom: 3%;
-    margin-top: 5%;
+    margin-top: 1%;
 }
 
 .images figcaption {
