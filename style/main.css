@@ -6,9 +6,6 @@ body {
 }
 /* Title of the page */
 h1 {
-    border-style: ridge;
-    border-color: #DA9B22;
-    border-width: 20px;
     color: #E0216B;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 50px;
@@ -23,7 +20,7 @@ h2{
     text-align: center;
 }
 /* navigation section */
-nav {
+ul {
     border-style: dotted;
     border-color: #4a7da0;
     border-width: 10px;
