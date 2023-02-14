@@ -27,12 +27,15 @@ ul {
     font-family: 'Raleway', sans-serif;
     list-style-type: none;
     margin: 1% 10%;
-    padding: 1%;
+    padding: 0%;
     text-align: center;
 }
 li{
     display: inline-block;
     margin:20px;
+}
+a{
+    color: #c23932;
 }
 /* Paragraphs for the page */
 p {
