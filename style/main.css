@@ -24,10 +24,17 @@ ul {
     border-style: dotted;
     border-color: #4a7da0;
     border-width: 10px;
+    display: inli;
     font-family: 'Raleway', sans-serif;
+    list-style-type: none;
     margin: 1% 10%;
     padding: 1%;
     text-align: center;
+}
+
+li{
+    display: inline-block;
+    margin: 20px;
 }
 /* Paragraphs for the page */
 p {
