@@ -24,7 +24,6 @@ ul {
     border-style: dotted;
     border-color: #4a7da0;
     border-width: 10px;
-    display: inli;
     font-family: 'Raleway', sans-serif;
     list-style-type: none;
     margin: 1% 10%;
@@ -34,14 +33,14 @@ ul {
 
 li{
     display: inline-block;
-    margin: 20px;
+    margin:20px;
 }
 /* Paragraphs for the page */
 p {
-   text-align: center;
-   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
-   margin-left: 20%;
-   margin-right: 20%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
 }
 /* All images on the page */
 .images {
