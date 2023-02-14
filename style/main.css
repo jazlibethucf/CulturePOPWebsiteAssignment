@@ -33,9 +33,13 @@ ul {
 li{
     display: inline-block;
     margin:20px;
+/*link adjustments in navigation */
 }
 a{
     color: #c23932;
+}
+a:hover{
+    color: yellow;
 }
 /* Paragraphs for the page */
 p {
