@@ -43,9 +43,13 @@ a:hover{
 }
 /* Paragraphs for the page */
 p {
+    border-color: #c23932;
+    border-style: dotted;
+    border-width: 5px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
     margin-left: 20%;
     margin-right: 20%;
+    padding: 1.5%;
     text-align: center;
 }
 /* All images on the page */
