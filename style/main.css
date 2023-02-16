@@ -24,7 +24,9 @@ ul {
     border-style: dotted;
     border-color: #4a7da0;
     border-width: 10px;
+    display: flex;
     font-family: 'Raleway', sans-serif;
+    justify-content: space-around;
     list-style-type: none;
     margin: 1% 10%;
     padding: 0%;
