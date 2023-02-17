@@ -26,9 +26,10 @@ ul {
     border-width: 10px;
     display: flex;
     font-family: 'Raleway', sans-serif;
-    justify-content: space-evenly;
+    font-size: 18px;
+    justify-content: space-around;
     list-style-type: none;
-    margin: 1% 17%;
+    margin: 1% 15%;
     padding: 0%;
     text-align: center;
 }
