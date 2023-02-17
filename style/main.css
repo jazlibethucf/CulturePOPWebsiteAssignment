@@ -4,6 +4,7 @@ body {
     color: black;
     font-size: 17px;
 }
+
 /* Title of the page */
 h1 {
     color: #E0216B;
@@ -12,6 +13,7 @@ h1 {
     margin: 1% 35%;
     text-align: center;
 }
+
 /* subheadings for the page */
 h2{
     color: #E0216B;
@@ -19,6 +21,7 @@ h2{
     font-size: 35px;
     text-align: center;
 }
+
 /* navigation section */
 ul {
     border-style: dotted;
@@ -36,8 +39,9 @@ ul {
 li{
     display: inline-block;
     margin:20px;
-/*link adjustments in navigation */
 }
+
+/*link adjustments in navigation */
 a{
     color: #c23932;
 }
@@ -48,6 +52,7 @@ a:hover{
 a:link{
     text-decoration: none;
 }
+
 /* Paragraphs for the page */
 p {
     border-color: #c23932;
@@ -59,6 +64,7 @@ p {
     padding: 1.5%;
     text-align: center;
 }
+
 /* All images on the page */
 .images {
     text-align: center;
