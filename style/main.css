@@ -26,9 +26,9 @@ ul {
     border-width: 10px;
     display: flex;
     font-family: 'Raleway', sans-serif;
-    justify-content: space-around;
+    justify-content: space-evenly;
     list-style-type: none;
-    margin: 1% 10%;
+    margin: 1% 17%;
     padding: 0%;
     text-align: center;
 }
@@ -42,6 +42,10 @@ a{
 }
 a:hover{
     color: yellow;
+    text-decoration: underline;
+}
+a:link{
+    text-decoration: none;
 }
 /* Paragraphs for the page */
 p {
